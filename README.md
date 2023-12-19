@@ -9,7 +9,7 @@ Tried several techniques like:
   5. Catboost + Recurent Feature Elimination technique
 
 
-SUBMISIONS
+SUBMISSIONS
 
 1) Score: 0.82182 --- Xgboost + Hyperopt + Undersampling 	(Part of train data)
 2) Score: 0.85069 --- Simple LogisticRegression			      (Part of train data)
